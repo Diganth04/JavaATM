@@ -27,12 +27,12 @@ Ideal for beginners who want to learn **Java OOP** with real-life logic simulati
 ---
 
 ## Project Structure
--ATM.java // ATM model: holds balance, deposit, withdraw amounts
--AtmOperationsInterface.java // Declares ATM operation methods
--AtmOperationsImp.java // Implements ATM operation logic
--MainClass.java // Main application for user interaction
--README.md // Project documentation
-
+AtmMachineProject/
+├── ATM.java // ATM model: holds balance, deposit, withdraw amounts
+├── AtmOperationsInterface.java // Declares ATM operation methods
+├── AtmOperationsImp.java // Implements ATM operation logic
+├── MainClass.java // Main application for user interaction
+└── README.md // Project documentation
 ---
 
 ## How to Run
