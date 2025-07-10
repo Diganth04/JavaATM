@@ -26,7 +26,7 @@ Ideal for beginners who want to learn **Java OOP** with real-life logic simulati
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 ATM-Project/
