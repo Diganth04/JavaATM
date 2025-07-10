@@ -1,6 +1,11 @@
 /**
- * Represents the ATM account model containing balance and transaction amounts.
+ * ATM.java
+ *
+ * This class represents a simple ATM account model.
+ * It holds the balance and the amounts to be deposited or withdrawn.
+ * Acts as a data container for ATM operations.
  */
+
 public class ATM {
     private double balance;
     private double depositAmount;

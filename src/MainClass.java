@@ -1,8 +1,13 @@
 import java.util.Scanner;
 
 /**
- * Main class to run the ATM interface simulation.
+ * MainClass.java
+ *
+ * This is the main class that runs the ATM simulation.
+ * It handles user interaction via the console, takes input for account login,
+ * shows a menu for ATM operations, and connects to the AtmOperations implementation.
  */
+
 public class MainClass {
     public static void main(String[] args) {
         // Create an object for ATM operations

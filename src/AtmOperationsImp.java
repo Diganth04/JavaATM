@@ -2,8 +2,13 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * Implements the ATM operations like deposit, withdrawal, and mini statement.
+ * AtmOperationsImp.java
+ *
+ * This class implements the ATM operations defined in the interface.
+ * It performs logic for deposit, withdrawal (with validation), balance check,
+ * and keeps a mini statement using a LinkedHashMap to preserve order.
  */
+
 public class AtmOperationsImp implements AtmOperationsInterface {
     ATM atm = new ATM();
 
